@@ -1,4 +1,4 @@
 class Changer 
 {
-    private
+    
 }
